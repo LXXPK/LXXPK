@@ -5,8 +5,7 @@
 
 🚀 **Developer | Creative Content Creator**
 
-Welcome to my GitHub profile! I'm a passionate **Computer Science Engineering** student focused on **AI/ML** and **Web Development**. I enjoy building innovative solutions and continuously learning new technologies.
-
+Welcome to my GitHub profile! I'm a passionate **software developer** with a strong focus on **AI/ML** and **Web Development**. I enjoy building innovative solutions, solving complex problems, and continuously exploring emerging technologies.
 ---
 
 ## 🔗 Find Me Online
