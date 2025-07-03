@@ -1,11 +1,11 @@
-<img src="https://github.com/user-attachments/assets/11295e51-3d4c-44e0-a75c-d80612aee57f" height="300" width="100%" style="border-radius: 30px;" />
+<img src="https://github.com/user-attachments/assets/11295e51-3d4c-44e0-a75c-d80612aee57f" height="300" width="100%" style="border-radius: 30;" />
 
 
 # 👋 Hi there, I'm B Kiran!
 
 🚀 **Developer | Creative Content Creator**
 
-Welcome to my GitHub profile! I'm a passionate **software developer** with a strong focus on **AI/ML** and **Web Development**. I enjoy building innovative solutions, solving complex problems, and continuously exploring emerging technologies.
+- Welcome to my GitHub profile! I'm a passionate **software developer** with a strong focus on **AI/ML** and **Web Development**. I enjoy building innovative solutions, solving complex problems, and continuously exploring emerging technologies.
 ---
 
 ## 🔗 Find Me Online
